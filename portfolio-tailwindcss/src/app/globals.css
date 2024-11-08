@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  body {
+      color: #fff;
+      background-color: black;
+  }
+  .contact{
+      background-color: #F2AA4CFF;
+      padding: 15px;
+      width: 50%;
+  }
+
+}
+ 
